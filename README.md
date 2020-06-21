@@ -14,7 +14,16 @@ Airbnb has been a great boon to renters on their platform, solving for them the 
 
 ## Problem
 
-## Brief Research Outcomes
+Airbnb is an increasingly popular alternative to expensive hotels for tourists on a budget. It also gives renters and homeowners an opportunity to earn some income by subletting or renting their homes out when they are not using it
+
+New York City, one of the top but expensive tourist destinations has a significantly high count of Airbnb listing.
+
+![NYCMap](Map_render.png)
+
+This project will hence attempt to analyse NYC data from the Airbnb platform and through data visualisations, gain insights towards the following objectives:
+
+1. Maximuise bookings for homeowners
+2. Help guests optimise for the best deals
 
 ## Datasets Used
 
@@ -68,7 +77,7 @@ Important details about hundreds of thousands of venues in the metropolitan area
 
 ## The Team
 
-- Terence Neo
-- Robert Shi
-- Lim Yi-Min
-- Denise Eng
+- [Terence Neo](https://www.linkedin.com/in/terencenyy/), University of Oxford
+- [Robert Shi](https://github.com/rshi159), University of Oxford
+- [Lim Yi-Min](https://www.linkedin.com/in/yi-min-lim-547a8078/), University College London
+- [Denise Eng](https://www.linkedin.com/in/denise-eng/), Imperial College London
